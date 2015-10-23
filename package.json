@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cube-io/api-utils",
   "dependencies": {
+    "async": "^1.4.2",
     "aws-sdk": "^2.2.11",
     "cubeio-js-util": "0.0.1",
     "lodash": "^3.10.1"

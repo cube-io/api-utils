@@ -1,0 +1,19 @@
+{
+  "name": "api-utils",
+  "version": "0.0.0",
+  "description": "Utils for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cube-io/api-utils"
+  },
+  "author": "CubeIO <devs@cubeio.com> (http://cubeio.com)",
+  "license": "-",
+  "bugs": {
+    "url": "https://github.com/cube-io/api-utils/issues"
+  },
+  "homepage": "https://github.com/cube-io/api-utils"
+}

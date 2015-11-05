@@ -11,7 +11,7 @@
     "url": "git://github.com/cube-io/api-utils"
   },
   "author": "CubeIO <devs@cubeio.com> (http://cubeio.com)",
-  "license": "-",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/cube-io/api-utils/issues"
   },

@@ -11,6 +11,10 @@
     "url": "git://github.com/cube-io/api-utils"
   },
   "author": "CubeIO <devs@cubeio.com> (http://cubeio.com)",
+  "contributors": [
+    "Niels Roesen Abildgaard <na@cubeio.com>",
+    "Sven Johansen Hermann <sjh@cubeio.com>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cube-io/api-utils/issues"
